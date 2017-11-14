@@ -1,0 +1,25 @@
+
+title: Hacklab website
+url: 'http://webjeda.com'
+baseurl: '' #change it according to your repository name
+
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+
+#Profile information
+name: HackLab
+tagline: UTM Hacklab 
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+#sidebar links
+email: helloworld@hacklab.com
+website: utmhacklab.com #do not add http://
+github: https://github.com/UTMHacklab
+twitter: '@utmmcss'
+
