@@ -1,11 +1,15 @@
-- position: Software Developer
-  company: Company ABC
-  date: 2015 - Present
+- position: Android Workshop
+  company: DH 2026
+  date: October 15, 2017
+  details: Mobile application development platforms have become a significant medium for software
+                        content delivery and distribution. Software has been quick to embrace this global trend and thus have created a demand for professionals with mobile application development skills in the local market as well. With the mainstream adoption of tablet devices and smart phones this potential is expected to grow at an exponential growth both globally and locally.
  
-- position: Software Developer
-  company: Company XYC
-  date: 2015 - Present
+- position: iOS Workshop 
+  company: DH 2020
+  date: November 10, 2017
+  details: iOS offers various accessibility features to help users with vision and hearing disabilities. One major feature, VoiceOver, provides a voice reading information on the screen, including contextual buttons, icons, links and other user interface elements, and allows the user to navigate the operating system through gestures. Any apps with default controls and developed with a UIKit framework gets VoiceOver functionality built in.
   
-- position: Software Developer
-  company: Company MNO
-  date: 2015 - Present
+- position: Git Workshop
+  company: DH 2010
+  date: November 1, 2017
+  details: So, what is Git in a nutshell? This is an important section to absorb, because if you understand what Git is and the fundamentals of how it works, then using Git effectively will probably be much easier for you. As you learn Git, try to clear your mind of the things you may know about other VCSs, such as CVS, Subversion or Perforce — doing so will help you avoid subtle confusion when using the tool. Even though Git’s user interface is fairly similar to these other VCSs, Git stores and thinks about information in a very different way, and understanding these differences will help you avoid becoming confused while using it.

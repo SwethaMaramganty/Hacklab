@@ -20,6 +20,6 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 #sidebar links
 email: helloworld@hacklab.com
 website: utmhacklab.com #do not add http://
-github: https://github.com/UTMHacklab
+github: UTMHacklab
 twitter: '@utmmcss'
 
