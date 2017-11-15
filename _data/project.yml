@@ -1,16 +1,16 @@
-- name: Hello World
+- name: Challenge 1
   link: #
   description: I created a hello World Application
   
-- name: Hello World
+- name: Challenge 2
   link: #
-  description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-  
-- name: Hello World
-  link: #
-  description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+  description: I created a paint program 
 
-- name: Hello World
+- name: Challenge 3
   link: #
-  description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-  
+  description: I created a program that traverses through directories and finds the 
+              files where the first 4 bytes are 127ELF
+
+- name: Challenge 2
+  link: #
+  description: I created a Sudoku puzzle   
